@@ -1,4 +1,4 @@
-# sqlalchemy-homework
+# sqlalchemy
 
  Climate Analysis and Exploration
 
