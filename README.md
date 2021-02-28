@@ -17,7 +17,9 @@ Station Analysis
 Design a Query to Show How Many Stations are Available in the Dataset
 List the Stations and Counts in Descending Order
 Which Station Had the Highest Number of Observations?
+
 Using the Station ID from the Previous Query, Calculate the Lowest Temperature Recorded, Highest Temperature Recorded, and Average Temperature of the Most Active Station
+
 Choose the Station with the Highest Number of Temperature Observations
 Design a Query to Retrieve the Last 12 Months of Temperature Observation Data for this Station
 Plot the Results as a Histogram with bins=12
