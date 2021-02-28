@@ -24,6 +24,8 @@ Choose the Station with the Highest Number of Temperature Observations
 Design a Query to Retrieve the Last 12 Months of Temperature Observation Data for this Station
 Plot the Results as a Histogram with bins=12
 
+![](images/precipitation.png)
+
 
 
 Step 2 - Climate App
