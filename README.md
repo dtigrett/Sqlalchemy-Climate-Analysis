@@ -11,6 +11,9 @@ Design a Query to Retrieve the Last 12 Months of Precipitation Data Selecting On
 Save the Query Results as a Pandas DataFrame and Set the Index to the Date Column & Sort the Dataframe Values by date
 Use Pandas Plotting with Matplotlib to plot the Data
 Use Pandas to Calculate the Summary Statistics for the Precipitation Data
+![](images/precipitation.png)
+
+
 
 
 Station Analysis
@@ -24,11 +27,9 @@ Choose the Station with the Highest Number of Temperature Observations
 Design a Query to Retrieve the Last 12 Months of Temperature Observation Data for this Station
 Plot the Results as a Histogram with bins=12
 
-![](images/precipitation.png)
-
-
 
 Step 2 - Climate App
+
 Design a Flask API based on the queries that have been developed.
 
 Use FLASK to create the routes
